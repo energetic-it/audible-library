@@ -386,6 +386,11 @@ window.libraryJSON = [
       "https://samples.audible.com/bk/adbl/032950/bk_adbl_032950_sample.mp3",
     language: "English",
     format: "Unabridged Audiobook",
+    whispersync: "available",
+    tags: [
+      { url: "18580615011", name: "Epic" },
+      { url: "18580618011", name: "Historical" },
+    ],
     added: 124,
   },
   {
